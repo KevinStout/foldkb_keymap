@@ -1,3 +1,8 @@
+
+// To compile this file navigate to it in the terminal and run 'qmk compile'
+// To compile this file navigate to it in the terminal and run 'qmk compile'
+// To compile this file navigate to it in the terminal and run 'qmk compile'
+
 /* Copyright 2022 Forrest Cahoon <forrest.cahoon@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
@@ -13,7 +18,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
-
 
 // Milliseconds the backlight is off (or on) when blinking to show
 // caps lock is on. In other words, half the time of a full blink cycle.
