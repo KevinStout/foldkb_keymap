@@ -3,6 +3,9 @@
 // To compile this file navigate to it in the terminal and run 'qmk compile'
 // To compile this file navigate to it in the terminal and run 'qmk compile'
 
+// We can flash each side of the keyboard with different keymaps.
+// This will allow us to have a Mac and Windows layout on the same keyboard. 
+
 /* Copyright 2022 Forrest Cahoon <forrest.cahoon@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
